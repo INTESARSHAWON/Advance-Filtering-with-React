@@ -1,3 +1,16 @@
+This is an E-Commerce website. There are different types of filtering and searching options that I use here with some vanila JS code. Here a person can search any item using filter option. Items will be sorted out by filtering. This isn't a responsive web like my other projects. This is only search oriented.
+
+![af1](https://github.com/user-attachments/assets/8652d2df-eb7c-4a1c-9a22-3bf9a923d5f3)
+![af2](https://github.com/user-attachments/assets/feffe954-319e-41a3-a549-e493c632638a)
+![af3](https://github.com/user-attachments/assets/f0c64c59-4422-4fbe-b336-5668e798dffc)
+
+![af4](https://github.com/user-attachments/assets/7016d5cd-d218-4e6c-969c-818ba05489e3)
+
+Technology Used- React, JS, CSS, html
+
+live link- https://advancefiltering.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
