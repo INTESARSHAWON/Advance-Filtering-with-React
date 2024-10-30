@@ -4,6 +4,7 @@ import Products from "./Products/Products";
 import Recommended from "./Recommended/Recommended";
 import Sidebar from "./Sidebar/Sidebar";
 import Card from "./components/Card";
+import "./index.css";
 // Database
 import products from "./db/data";
 
@@ -19,7 +20,8 @@ function App() {
   }
 
   const filteredItems = products.filter(
-    product => product.title.toLocaleLowerCase().indexOf(query.toLocaleLowerCase() !== -1 )
+    (product) => product.title.toLocaleLowerCase().indexOf(query.toLocaleLowerCase())!== 
+    -1
   );
 
 
